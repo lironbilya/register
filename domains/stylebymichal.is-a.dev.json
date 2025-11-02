@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "שם_המשתמש_שלך_בגיטהאב",
+    "email": "הדוא\"ל_שלך"
+  },
+  "record": {
+    "CNAME": "stylebymichal.pages.dev"
+  },
+  "proxied": true
+}
